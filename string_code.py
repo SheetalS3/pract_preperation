@@ -31,7 +31,10 @@ for i in str1:
 #     print(i)
 #     print(i, end= '')
 
-#iuehwhdwhdf
+##3
+str= "Python"
+new = str[::-1]
+print(new)
 
 
 
